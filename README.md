@@ -7,34 +7,35 @@ I enjoy turning complex ideas into **simple, maintainable, real-world solutions*
 
 ---
 
-## 💼 What I’m Working On
+### 💼 What I’m Working On
 - Building full-stack web apps using **MERN stack**
 - Improving **backend performance & API design**
 - Writing clean, reusable, and readable code
 
-## 🤝 Open to Collaborate On
+### 🤝 Open to Collaborate On
 - Open-source projects  
 - Full-stack / backend-heavy applications  
 - Hackathons & developer communities  
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 - **Data Structures & Algorithms**
 - Backend scalability & system fundamentals
 - AI integration in web applications
 
-## 💬 My Interests
+### 💬 My Interests
 - React, Node.js, Express, MongoDB
 - REST APIs & authentication (JWT)
 - Git, GitHub, and project structuring
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-kumar-389a85273/) 
+## 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/himanshu-kumar-389a85273/) 
 &nbsp;&nbsp;&nbsp;
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GutsyCoder) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/GutsyCoder) 
+<br><br>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
@@ -59,21 +60,37 @@ I enjoy turning complex ideas into **simple, maintainable, real-world solutions*
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) &nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats:
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=himanshu4812&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=himanshu4812&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu4812&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
+
+### 📊 My Contributions
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu4812&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="3D Contribution Graph" />
+</div>
+
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=himanshu4812&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+-->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=himanshu4812&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<!-- GitHub cards in larger size -->
+<div align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=himanshu4812&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- <img src="https://streak-stats.demolab.com?user=Himanshu4812&theme=dark&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" width="400px"/>   -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Himanshu4812&theme=dark" width="300px"/>  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Himanshu4812&theme=dark&utcOffset=8" width="300px"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Himanshu4812&theme=dark" width="300px"/>  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Himanshu4812&theme=dark" width="300px"/>  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himanshu4812&theme=dark" width="400px" height="500px"/>
+
+</div>
+
