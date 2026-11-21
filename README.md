@@ -73,6 +73,15 @@ I enjoy turning complex ideas into **simple, maintainable, real-world solutions*
 
 </div>
 
+<div align="center">
+  <h2>🐍 Contributions Snake</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Himanshu4812/Himanshu4812/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Himanshu4812/Himanshu4812/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Himanshu4812/Himanshu4812/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
 ### 📊 My Contributions
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu4812&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="3D Contribution Graph" />
